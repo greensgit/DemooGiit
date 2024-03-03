@@ -7,7 +7,12 @@ public class Demoo {
 		System.out.println("This is git class 1 - for practice");
 	}
 	
-	private void payment() {
-		System.out.println("This is Arun - working on Payment");
+	private void addToKart() {
+		System.out.println("This is gokul - ading login for Add to Kart");
 	}
+
+	private void payment() {
+	System.out.println("This is Arun - working on Payment");
+}
+
 }
