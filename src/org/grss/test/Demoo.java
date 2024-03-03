@@ -11,4 +11,8 @@ public class Demoo {
 		System.out.println("This is gokul - ading login for Add to Kart");
 	}
 
+	private void payment() {
+	System.out.println("This is Arun - working on Payment");
+}
+
 }
