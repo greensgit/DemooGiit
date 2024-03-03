@@ -6,5 +6,8 @@ public class Demoo {
 		
 		System.out.println("This is git class 1 - for practice");
 	}
-
+	
+	private void payment() {
+		System.out.println("This is Arun - working on Payment");
+	}
 }
